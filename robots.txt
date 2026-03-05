@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://animated-twilight-5f5874.netlify.app/sitemap.xml
